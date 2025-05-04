@@ -14,13 +14,13 @@ Currently working through TryHackMe's SOC Analyst Path.
 
 ### 🛡️ Cyber Defence Frameworks
 - [x] [Junior Security Analyst Intro](reports/cyber-defence-frameworks/junior-security-analyst-intro)
-- [x] [Pyramid Of Pain]
+- [x] [Pyramid Of Pain](reports/cyber-defence-frameworks/pyramid-of-pain)
 - [x] [Cyber Kill Chain](reports/cyber-defence-frameworks/cyber-kill-chain)
-- [x] [Unified Kill Chain]
-- [x] [Diamond Model]
-- [x] [MITRE]
-- [x] [Summit]
-- [x] [Eviction]
+- [x] [Unified Kill Chain](reports/cyber-defence-frameworks/unified-kill-chain)
+- [x] [Diamond Model](reports/cyber-defence-frameworks/diamond-model)
+- [x] [MITRE](reports/cyber-defence-frameworks/mitre)
+- [x] [Summit](reports/cyber-defence-frameworks/summit)
+- [x] [Eviction](reports/cyber-defence-frameworks/eviction)
 
 ### 🧠 Cyber Threat Intelligence
 - [x] Intro to Cyber Threat Intel
