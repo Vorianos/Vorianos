@@ -13,9 +13,9 @@ Currently working through TryHackMe's SOC Analyst Path.
 ## 🚧 TryHackMe Progress - SOC Analyst Path (36% Complete)
 
 ### 🛡️ Cyber Defence Frameworks
-- [x] [Junior Security Analyst Intro](reports/cyber-defence-frameworks/junior-security-analyst-intro.md)
+- [x] [Junior Security Analyst Intro](reports/cyber-defence-frameworks/junior-security-analyst-intro)
 - [x] [Pyramid Of Pain]
-- [x] [Cyber Kill Chain]
+- [x] [Cyber Kill Chain](reports/cyber-defence-frameworks/cyber-kill-chain)
 - [x] [Unified Kill Chain]
 - [x] [Diamond Model]
 - [x] [MITRE]
