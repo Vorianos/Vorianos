@@ -23,30 +23,30 @@ Currently working through TryHackMe's SOC Analyst Path.
 - [x] [Eviction](reports/cyber-defence-frameworks/eviction)
 
 ### 🧠 Cyber Threat Intelligence
-- [x] Intro to Cyber Threat Intel
-- [x] Threat Intelligence Tools
-- [x] Yara
-- [x] OpenCTI
-- [x] MISP
-- [x] Friday Overtime
-- [x] Trooper
+- [x] [Intro to Cyber Threat Intel]()
+- [x] [Threat Intelligence Tools]()
+- [x] [Yara]()
+- [x] [OpenCTI]()
+- [x] [MISP]()
+- [x] [Friday Overtime]()
+- [x] [Trooper]()
 
 ### 🌐 Network Security and Traffic Analysis
-- [x] Traffic Analysis Essentials
-- [x] Snort
-- [x] Snort Challange - The Basics
-- [x] Snort Challange - Live Attacks
-- [x] NetworkMiner
-- [x] Zeek
-- [ ] Zeek Exercises
-- [ ] Brim
-- [x] Wireshark: The Basics
-- [x] Wireshark: Packet Operations
-- [x] Wireshark: Traffic Analysis
-- [ ] TShark: The Basics
-- [ ] TShark: CLI Wireshark Features
-- [ ] TShark: Challenge I: Teamwork
-- [ ] TShark: Challenge IIL Directory
+- [x] [Traffic Analysis Essentials]()
+- [x] [Snort]()
+- [x] [Snort Challange - The Basics]()
+- [x] [Snort Challange - Live Attacks]()
+- [x] [NetworkMiner]()
+- [x] [Zeek]()
+- [ ] [Zeek Exercises]()
+- [ ] [Brim]()
+- [x] [Wireshark: The Basics]()
+- [x] [Wireshark: Packet Operations]()
+- [x] [Wireshark: Traffic Analysis]()
+- [ ] [TShark: The Basics]()
+- [ ] [TShark: CLI Wireshark Features]
+- [ ] [TShark: Challenge I: Teamwork]
+- [ ] [TShark: Challenge IIL Directory]
 
 ### 💻 Endpoint Security Monitoring
 - [ ] Intro to Endpoint Security
