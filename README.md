@@ -23,13 +23,13 @@ Currently working through TryHackMe's SOC Analyst Path.
 - [x] [Eviction](reports/cyber-defence-frameworks/eviction)
 
 ### 🧠 Cyber Threat Intelligence
-- [x] [Intro to Cyber Threat Intel]()
-- [x] [Threat Intelligence Tools]()
-- [x] [Yara]()
-- [x] [OpenCTI]()
-- [x] [MISP]()
-- [x] [Friday Overtime]()
-- [x] [Trooper]()
+- [x] [Intro to Cyber Threat Intel](reports/cyber-threat-intelligence/intro-to-cyber-threat-intel)
+- [x] [Threat Intelligence Tools](reports/cyber-threat-intelligence/threat-intelligence-tools)
+- [x] [Yara](reports/cyber-threat-intelligence/yara)
+- [x] [OpenCTI](reports/cyber-threat-intelligence/openCTI)
+- [x] [MISP](reports/cyber-threat-intelligence/misp)
+- [x] [Friday Overtime](reports/cyber-threat-intelligence/friday-overtime)
+- [x] [Trooper](reports/cyber-threat-intelligence/trooper)
 
 ### 🌐 Network Security and Traffic Analysis
 - [x] [Traffic Analysis Essentials]()
