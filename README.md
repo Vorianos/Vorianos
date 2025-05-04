@@ -32,18 +32,18 @@ Currently working through TryHackMe's SOC Analyst Path.
 - [x] [Trooper](reports/cyber-threat-intelligence/trooper)
 
 ### 🌐 Network Security and Traffic Analysis
-- [x] [Traffic Analysis Essentials]()
-- [x] [Snort]()
-- [x] [Snort Challange - The Basics]()
-- [x] [Snort Challange - Live Attacks]()
-- [x] [NetworkMiner]()
-- [x] [Zeek]()
-- [ ] [Zeek Exercises]()
-- [ ] [Brim]()
-- [x] [Wireshark: The Basics]()
-- [x] [Wireshark: Packet Operations]()
-- [x] [Wireshark: Traffic Analysis]()
-- [ ] [TShark: The Basics]()
+- [x] [Traffic Analysis Essentials](reports/network-security-and-traffic-analysis/traffic-analysis-essentials)
+- [x] [Snort](reports/network-security-and-traffic-analysis/snort)
+- [x] [Snort Challenge - The Basics](reports/network-security-and-traffic-analysis/snort-challenge-basics)
+- [x] [Snort Challenge - Live Attacks](reports/network-security-and-traffic-analysis/snort-challenge-live-attacks)
+- [x] [NetworkMiner](reports/network-security-and-traffic-analysis/networkMiner)
+- [x] [Zeek](reports/network-security-and-traffic-analysis/zeek)
+- [ ] [Zeek Exercises](reports/network-security-and-traffic-analysis/zeek-exercises)
+- [ ] [Brim](reports/network-security-and-traffic-analysis/brim)
+- [x] [Wireshark: The Basics](reports/network-security-and-traffic-analysis/wireshark-basics)
+- [x] [Wireshark: Packet Operations](reports/network-security-and-traffic-analysis/wireshark-packet-ops)
+- [x] [Wireshark: Traffic Analysis](reports/network-security-and-traffic-analysis/wireshark-traffic-analysis)
+- [ ] [TShark: The Basics](reports/network-security-and-traffic-analysis/tshark-basics)
 - [ ] [TShark: CLI Wireshark Features]
 - [ ] [TShark: Challenge I: Teamwork]
 - [ ] [TShark: Challenge IIL Directory]
