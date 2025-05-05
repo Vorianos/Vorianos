@@ -38,7 +38,7 @@ Currently working through TryHackMe's SOC Analyst Path.
 - [x] [Snort Challenge - Live Attacks](reports/network-security-and-traffic-analysis/snort-challenge-live-attacks)
 - [x] [NetworkMiner](reports/network-security-and-traffic-analysis/networkMiner)
 - [x] [Zeek](reports/network-security-and-traffic-analysis/zeek)
-- [ ] [Zeek Exercises](reports/network-security-and-traffic-analysis/zeek-exercises)
+- [x] [Zeek Exercises](reports/network-security-and-traffic-analysis/zeek-exercises)
 - [ ] [Brim](reports/network-security-and-traffic-analysis/brim)
 - [x] [Wireshark: The Basics](reports/network-security-and-traffic-analysis/wireshark-basics)
 - [x] [Wireshark: Packet Operations](reports/network-security-and-traffic-analysis/wireshark-packet-ops)
